@@ -10,7 +10,12 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [{
+    "id": "8aeb8e4b-60a2-4a43-b442-8fc4b7d1bc85",
+    "name": "MySolution.W1",
+    "publisher": "CMO",
+    "version": "1.0.0.0"
+  }],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
